@@ -14,5 +14,6 @@ O objetivo deste portólio foi criar uma interface para unir meus projetos princ
 * **JavaScript**
 
 ##✉️ Contato
+
 [Linkedin](https://linkedin.com/in/bianca-ads)
 [E-Mail](mailto:biancapaiva.279@gmail.com)
