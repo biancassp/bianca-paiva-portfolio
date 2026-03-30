@@ -13,7 +13,7 @@ O objetivo deste portólio foi criar uma interface para unir meus projetos princ
 * **CSS3** 
 * **JavaScript**
 
-##✉️ Contato
+## 📧 Contato
 
 [Linkedin](https://linkedin.com/in/bianca-ads)
 
